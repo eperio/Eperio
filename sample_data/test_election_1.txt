@@ -1,0 +1,8 @@
+Election Specs:
+* 5000 Ballots
+* 12 Candidates
+* 10 Instances
+* 154 Voted Ballots
+
+Modeled After:
+* A case study paper that used "Punchscan" in a university election.
