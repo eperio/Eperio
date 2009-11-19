@@ -1,0 +1,11 @@
+Welcome to the Eperio code repository.
+
+The verification script is located at: 
+~/python_openssl/verify.py
+
+To use the script, copy it into a directory of Eperio election data. This is the directory that contains subdirectories for each instance (01, 02, ..), AssertedTally.csv, AssertedReceipts.csv, etc. A sample has been provided at:
+~/sample_data/test_election_1/
+
+The script requires Python and OpenSSL. It should work 'out-of-the-box' with Ubuntu or OS X. Invoke it using: 
+
+python verify.py
